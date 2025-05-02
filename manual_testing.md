@@ -1,6 +1,3 @@
-Updated with **Windows PC** instead of macOS:
-
----
 
 **Manual Testing Summary**  
 **Project:** HR Management System – Amader IT (Demo)  
